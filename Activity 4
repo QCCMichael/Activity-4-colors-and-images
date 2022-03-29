@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Michael Schultz - Class Activity 4</title>
+  </head>
+  <body>
+    <h2>Michael Schultz</h2>
+    <link rel="stylesheet" href="colors.css">
+   <section class="filterContainer">
+   <img class="Place1" src="Miami.jpg" alt="Miami" title="Miami City">
+   <img class= "Place2" src="Manhatten.jpg" alt="Manhatten" title="Manhatten">
+   <img class= "Place3" src="Alaska.jpg" alt="Alaska" title="Alaska Mountain">
+</section>
+<h2 class="title">Miami has the largest crew ship port in the world.</h2>
+ <p><a href="https://www.bing.com/images/search?view=detailV2&ccid=PcVju7qS&id=66C52A008916000307C3BA218CF440D7C8D3CD7E&thid=OIP.PcVju7qSI1_h8euwjtrb9wHaFj&mediaurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.3dc563bbba92235fe1f1ebb08edadbf7%3Frik%3Dfs3TyNdA9Iwhug%26riu%3Dhttp%253a%252f%252fstatic1.squarespace.com%252fstatic%252f53dc4794e4b0397c480f3887%252f53dd7d6fe4b0e03ffbae110e%252f5435c3a6e4b02b0945e4f8df%252f1414455151335%252f%253fformat%253d1500w%26ehk%3DDclDTB4JKcRYOL9ETr9UcxFQmA6pOAJ5w%252bZayByL%252fIM%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=768&expw=1024&q=manhatten&simid=608007081200732166&form=IRPRST&ck=8733DD7E14D7987463177A47ECF9495E&selectedindex=2&ajaxhist=0&ajaxserp=0&vt=0&sim=11"class="title2" target="_blank">Manhatten is known to be the most populated boroughs in New York.</a></p>
+<h2 class="title3">Alaska</h2>
+<p class="p1">This is the best vacation I have ever taken!</p>
+<p class="p2">The sights are beautiful!</p>
+<p class="p3">Book a trip here if you want to have a great time.</p>
+   </body>
+</html>
