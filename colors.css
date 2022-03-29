@@ -1,0 +1,78 @@
+.filterContainer{
+ border: solid blue;
+   margin-left:auto;
+   margin-right:auto;
+}
+.Place1, .Place2, .Place3{
+  width:75%;
+  height:75%;
+}
+
+.Place1{
+  filter: invert(120%);
+
+}
+.title{
+  position: absolute;
+ bottom:1%;
+  border: solid;
+  padding: 20px;
+  font-size: 17px;
+  color:#ffa500;
+  background-color:#000000;
+  font-family:cursive;
+}
+.Place2{
+  filter: blur(3px);
+}
+.title2{
+position:absolute;
+top:160%;
+bottom: 160%;
+text-align:center;
+left: 15%;
+border: ridge;
+padding: 28px;
+font-size: 20px;
+color:#ffa580;
+background-color:rgb(255,0,0);
+font-family: sans-serif;
+text-align: center;
+}
+.Place3{
+  filter: sepia(75%);
+}
+.title3{
+position: absolute;
+top: 280%;
+bottom: 280%;
+text-align:center;
+left: 34%;
+border:Solid;
+padding:40px;
+font-size:30px
+background-color: gray;
+color:gray;
+font-family:Didot,serif;
+
+}
+.p1{
+position: absolute;
+  top:270%;
+  bottom:270%;
+width:100%;
+}
+.p2{
+position: absolute;
+  top:230%;
+  bottom:350%;
+  right:30%;
+width: 50%;
+}
+.p3{
+position: absolute;
+top:250%;
+right: 40%;
+bottom:250%
+width: 300px;
+}
